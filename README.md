@@ -27,7 +27,7 @@
 3. **M3**：鉴权、审计日志与失败回退约定  
 4. **M4**：私有化注册表 + 白标文档  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
